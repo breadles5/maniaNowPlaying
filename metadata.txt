@@ -1,0 +1,6 @@
+Usecase: obs-overlay
+Name: maniaNowPlaying
+Author: Breadles
+CompatibleWith: tosu
+Resolution: 720 x 210
+authorlinks: https://github.com/breadles5/
