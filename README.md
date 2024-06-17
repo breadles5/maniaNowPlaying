@@ -2,6 +2,7 @@
 A simple and stylish OBS overlay designed to diplay map metadata and information   
  - designed exclusively for [tosu](https://github.com/kotrikd/tosu)   
 
+![image](https://github.com/breadles5/maniaNowPlaying/assets/101068519/60520ac5-44a9-484d-8890-c437012c9979)
 
 
 ## installation
