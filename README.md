@@ -6,7 +6,7 @@ A simple and stylish OBS overlay designed to diplay map metadata and information
 
 
 ## installation
-1. get the latest release from https://github.com/breadles5/maniaNowPlaying/releases/
+1. get the latest release from [releases](https://github.com/breadles5/maniaNowPlaying/releases/)
 2. unzip the archive into your counters folder (called `static` by default)
 3. retrieve the URL from the [tosu dashboard](http://127.0.0.1:24050/) by clicking on displayed link, which will copy the URL to the clipboard
 4. paste the URL into OBS browser source
