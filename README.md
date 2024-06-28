@@ -9,7 +9,7 @@ A simple and stylish OBS overlay designed to display map metadata and informatio
 2. Unzip the archive into your counters folder (called `static` by default)
 3. Retrieve the URL from the [tosu dashboard](http://127.0.0.1:24050/) by clicking on displayed link, which will copy the URL to the clipboard
 4. Paste the URL into OBS browser source with dimensions described in metadata.txt or tosu dashboard
-5. Resize source to desired size by holding down `Ctrl` and dragging with left mouse button to preserve the original aspect ratio
+5. Resize source to desired size by holding down `Shift` and dragging with left mouse button to preserve the original aspect ratio
 
 ## Terms of Service
 By using this software, you agree to the following terms of service:
